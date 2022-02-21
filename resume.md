@@ -2,7 +2,7 @@
 # Resume Practice
 Hey! My name is **Jiyun Tsai**. <br/>
 I'm a passionate multimedia storyteller with a background in sociology based in the Bay Area. <br/>
-Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyuntsai).
+Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyuntsai) for more visual and multimedia projects.
 ***
 ## Education
 **UC Berkeley Journalism School <br/>
