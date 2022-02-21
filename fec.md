@@ -2,7 +2,7 @@
 
 * [Part One](https://github.com/jiyuntsai/JOURN_296/edit/main/fec.md#Part-One): Documenting the steps of cleaning the "Dataset_SOFT100K_95-96.csv" dataset. </br>
 * More data and information *[here](https://www.fec.gov/data/)*. </br>
-* [Part Two](https://github.com/jiyuntsai/JOURN_296/edit/main/fec.md#Part-Two): Answering questions provided by the instructor.
+* [Part Two](https://github.com/jiyuntsai/JOURN_296/edit/main/fec.md#Part-Two): Descriptive statistics and answering questions provided by the instructor.
 <!-- and Happy President's Day btw! I am writing this assignment on Sunday because I'm going to Napa Valley tomorrow! YABEEE -->
 
 ### About this data <br/>
@@ -12,7 +12,7 @@ Source: Federal Election Commission <br/>
 Dates Covered: January 1995 to December 1996 <br/>
 
 ### Dataset_SOFT100K_95-96.csv <br/>
->Donor: individual, company or entity that donated money to either campaign <br/>
+>Donor: individual, company or entity that donated money to either campaign
 Amount: amount over $100,000 contributed to either campaign <br/>
 Date: date of contribution to either campaign <br/>
 Recipient: Committee receiving the donation which backs either Bill Clinton or Bob Dole’s presidential campaigns <br/>
