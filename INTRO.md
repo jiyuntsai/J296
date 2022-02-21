@@ -1,4 +1,4 @@
 # J296
 
 Spring 2022 Data Journalism class projects and files at UC Berkeley Journalism.<br/>
-The resume.md file is for "Data Journalism Markdown practice resume assignment."
+* The [resume.md](https://github.com/jiyuntsai/JOURN_296/blob/main/resume.md) file is for Feb. 17 Markdown in-class practice.
