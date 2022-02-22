@@ -74,9 +74,10 @@ Create pivot table: Insert >> Pivot table
 
 * Philip Morris of the tobacco industry contributed $1,820,000 in total. The total amount of donation in tobacco industry was $2,570,000, so Philip Morris account 70.82% of the industry's donation.
 
-* Steps: Go to the original spreadsheet and filter only "Tobacco" industry. Then you can either do it on the original sheet but I prefer copy the filtered data and paste value-only to another blank sheet. Here you'll get the total amount of donation ($2,570,000) this industry had by using "=SUM" function. Then add all the Philip Morris' donations using the same function, or simply "+" them all to get the total amount of money, which is $1,820,000. Now you can find the percentage by division: 1820000/2570000 then change it to percentage. The answer is 70.82%. <br/>
-*There are many ways to answer this question.*
+* Steps: Go to the original spreadsheet and filter only "Tobacco" industry. Then you can either do it on the original sheet but I prefer copy the filtered data and paste value-only to another blank sheet. Here you'll get the total amount of donation ($2,570,000) this industry had by using "=SUM" function. Then add all the Philip Morris' donations using the same function, or simply "+" them all to get the total amount of money, which is $1,820,000. Now you can find the percentage by division: 1820000/2570000 then change it to percentage. The answer is 70.82%. *There are many ways to answer this question.*
 
 4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
+
+
 
 5. **What data might be suitable to join with this data to provide context or additional stories? Give me two examples.**
