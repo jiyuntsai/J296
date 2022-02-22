@@ -45,7 +45,7 @@ Create pivot table: Insert >> Pivot table
 
 ## Part Two
 
-**Descriptive Statistic** <br/>
+**Descriptive Statistics** <br/>
 * There were 383 donations to the two parties within 1995 and 1996, the total amount of money was $48,502,578, 44.44% ($21,553,578) to Democrat, and 55.56% ($26,949,000) was to Republican. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/1.png)
 * There were 185 donations to Democrat and 198 donations to Republican. Among all, NY state had the most donation events as well as the amount of donation, followed by DC, CA, FL, and MI. However, TX had the 5th most donation events but the amount of money was 7th most. <br/>
@@ -58,9 +58,10 @@ Create pivot table: Insert >> Pivot table
 
 **Assignment Questions** <br/>
 1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party? (Remember to give me the answer and the steps you took to get the answer.)**
-
-
-
+* For the Democratic party, "Media/Entertainment" had the most donation counts, and also contributed the largest amount of money with a $1,880,000 in total. For the Republican, "Securities & Investment" had the most donation counts, but the "Republican/Conservative" contributed the most amount of money, with a $4,939,000 in total. Overall, the Democratic received a $21,553,578 in total and Republican received a $26,949,000 in total.
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/5.png)
+* Steps: Set the pivot table with "Industry" in rows, "Party" in columns, and "CountA of Donor" and "Sum of Amount" in values. Voila! Then copy the pivot table and paste the value-only to a blank sheet, delete the first useless row and set the filter for the column-name row. Then according to the questions above, sort the values to see the amount of money and the highest contributions of each industry. <br/>
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/6.png)
 
 2. **How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL? (Remember to give me the answer and the steps you took to get the answer.)**
 
