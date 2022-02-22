@@ -55,3 +55,17 @@ Create pivot table: Insert >> Pivot table
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
 * For the Democrat, they received the most times of donation from "Finance, Insurance & Real Estate" sector as well as "Misc Business" sector both had 33 times of donation. And for the amount of money, Democrat received the most from "Finance, Insurance & Real Estate" followed by "Misc Business." For the Republican, they received the most times of donation from "Finance, Insurance & Real Estate" sector for 54 times, followed by "Misc Business" sector for 32 times. As for the amount of money, they received the most from "Finance, Insurance & Real Estate" followed by "Ideological/Single-Issue." However, there was no donation from "Labor" and "Lawyers & Lobbyists" sections. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
+
+**Assignment Questions** <br/>
+1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party? (Remember to give me the answer and the steps you took to get the answer.)**
+
+
+
+
+2. **How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL? (Remember to give me the answer and the steps you took to get the answer.)**
+
+3. **What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it? (Remember to give me the answer and the steps you took to get the answer.)**
+
+4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
+
+5. **What data might be suitable to join with this data to provide context or additional stories? Give me two examples.**
