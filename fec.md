@@ -45,4 +45,7 @@ Create pivot table: Insert >> Pivot table
 
 ## Part Two
 
-**Descriptive Statistic**
+**Descriptive Statistic** <br/>
+* There were 383 donations to the two parties within 1995 and 1996, the total amount of money was $48,502,578, 44.44% ($21,553,578) to Democrat, and 55.56% ($26,949,000) was to Republican. <br/>
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/1.png)
+* 
