@@ -48,4 +48,5 @@ Create pivot table: Insert >> Pivot table
 **Descriptive Statistic** <br/>
 * There were 383 donations to the two parties within 1995 and 1996, the total amount of money was $48,502,578, 44.44% ($21,553,578) to Democrat, and 55.56% ($26,949,000) was to Republican. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/1.png)
-* 
+* There were 185 donations to Democrat and 198 donations to Republican. Among all, NY state had the most donation events as well as the amount of donation, followed by DC, CA, FL, and MI. However, TX had the 5th most donation events but the amount of money was 7th most. <br/>
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/2.png)
