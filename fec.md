@@ -53,4 +53,5 @@ Create pivot table: Insert >> Pivot table
 * The amount of donation got higher in 1996 and **thrived in April 1996** and **thrived again in October 1996** (right before the Novemeber 53rd Presidential Election). <br/>
 *Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
-*
+* 
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
