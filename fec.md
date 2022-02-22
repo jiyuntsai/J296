@@ -57,15 +57,25 @@ Create pivot table: Insert >> Pivot table
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
 
 **Assignment Questions** <br/>
-1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party? (Remember to give me the answer and the steps you took to get the answer.)**
-* For the Democratic party, "Media/Entertainment" had the most donation counts, and also contributed the largest amount of money with a $1,880,000 in total. For the Republican, "Securities & Investment" had the most donation counts, but the "Republican/Conservative" contributed the most amount of money, with a $4,939,000 in total. Overall, the Democratic received a $21,553,578 in total and Republican received a $26,949,000 in total.
+1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?**
+* For the Democratic party, "Media/Entertainment" had the most donation counts, and also contributed the largest amount of money with a $1,880,000 in total. For the Republican, "Securities & Investment" had the most donation counts, but the "Republican/Conservative" contributed the most amount of money, with a $4,939,000 in total. Overall, the Democratic received a $21,553,578 in total and Republican received a $26,949,000 in total. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/5.png)
 * Steps: Set the pivot table with "Industry" in rows, "Party" in columns, and "CountA of Donor" and "Sum of Amount" in values. Voila! Then copy the pivot table and paste the value-only to a blank sheet, delete the first useless row and set the filter for the column-name row. Then according to the questions above, sort the values to see the amount of money and the highest contributions of each industry. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/6.png)
 
-2. **How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL? (Remember to give me the answer and the steps you took to get the answer.)**
+2. **How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?**
 
-3. **What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it? (Remember to give me the answer and the steps you took to get the answer.)**
+* Donors from the "Misc. Business" sector contributed a $3,520,000 in total to the Democratic party. And in the sector, Windmere Corp was based in Miami Lakes, FL, and had contributed two times with a $200,000 in total. <br/>
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/7.png)
+* Steps: Set the pivot table with "Sector" in rows, "Party" in columns, and "Sum of Amount" in values. Voila! Then to see which donors were based in Miami, FL, go back to the original sheet, filter "Party" to only D, "Sector" to only Misc Business, "City" to Miami Lakes, "State" to FL. The answers will be filtered out. <br/>
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/8.png)
+
+3. **What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?**
+
+* Philip Morris of the tobacco industry contributed $1,820,000 in total. The total amount of donation in tobacco industry was $2,570,000, so Philip Morris account 70.82% of the industry's donation.
+
+* Steps: Go to the original spreadsheet and filter only "Tobacco" industry. Then you can either do it on the original sheet but I prefer copy the filtered data and paste value-only to another blank sheet. Here you'll get the total amount of donation ($2,570,000) this industry had by using "=SUM" function. Then add all the Philip Morris' donations using the same function, or simply "+" them all to get the total amount of money, which is $1,820,000. Now you can find the percentage by division: 1820000/2570000 then change it to percentage. The answer is 70.82%. <br/>
+*There are many ways to answer this question.*
 
 4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
 
