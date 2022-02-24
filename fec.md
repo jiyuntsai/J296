@@ -49,30 +49,27 @@ Create pivot table: Insert >> Pivot table
 * There were 383 donations to the two parties within 1995 and 1996, the total amount of money was $48,502,578, 44.44% ($21,553,578) to Democrat, and 55.56% ($26,949,000) was to Republican. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/1.png)
 * There were 185 donations to Democrat and 198 donations to Republican. Among all, NY state had the most donation events as well as the amount of donation, followed by DC, CA, FL, and MI. However, TX had the 5th most donation events but the amount of money was 7th most. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/2.png)
+![image 2, Count of parties donation](https://github.com/jiyuntsai/JOURN_296/blob/main/2.png)
 * The amount of donation got higher in 1996 and **thrived in April 1996** and **thrived again in October 1996** (right before the Novemeber 53rd Presidential Election). <br/>
 *Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart, **Okie I also did this...**). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
+![image 3, Sum amount of month donation](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
+![image 9, Sum amount of month donation two line](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
 * For the Democrat, they received the most times of donation from "Finance, Insurance & Real Estate" sector as well as "Misc Business" sector both had 33 times of donation. And for the amount of money, Democrat received the most from "Finance, Insurance & Real Estate" followed by "Misc Business." For the Republican, they received the most times of donation from "Finance, Insurance & Real Estate" sector for 54 times, followed by "Misc Business" sector for 32 times. As for the amount of money, they received the most from "Finance, Insurance & Real Estate" followed by "Ideological/Single-Issue." However, there was no donation from "Labor" and "Lawyers & Lobbyists" sections. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
-
-* 
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
+![image 4, Count of section parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
 
 **Assignment Questions** <br/>
 1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?**
 * For the Democratic party, "Media/Entertainment" had the most donation counts, and also contributed the largest amount of money with a $1,880,000 in total. For the Republican, "Securities & Investment" had the most donation counts, but the "Republican/Conservative" contributed the most amount of money, with a $4,939,000 in total. Overall, the Democratic received a $21,553,578 in total and Republican received a $26,949,000 in total. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/5.png)
+![image 5, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/5.png)
 * Steps: Set the pivot table with "Industry" in rows, "Party" in columns, and "CountA of Donor" and "Sum of Amount" in values. Voila! Then copy the pivot table and paste the value-only to a blank sheet, delete the first useless row and set the filter for the column-name row. Then according to the questions above, sort the values to see the amount of money and the highest contributions of each industry. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/6.png)
+![image 6, Industry count of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/6.png)
 
 2. **How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?**
 
 * Donors from the "Misc. Business" sector contributed a $3,520,000 in total to the Democratic party. And in the sector, Windmere Corp was based in Miami Lakes, FL, and had contributed two times with a $200,000 in total. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/7.png)
+![image 7, Sector amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/7.png)
 * Steps: Set the pivot table with "Sector" in rows, "Party" in columns, and "Sum of Amount" in values. Voila! Then to see which donors were based in Miami, FL, go back to the original sheet, filter "Party" to only D, "Sector" to only Misc Business, "City" to Miami Lakes, "State" to FL. The answers will be filtered out. <br/>
-![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/8.png)
+![image 8, Windmere Corp](https://github.com/jiyuntsai/JOURN_296/blob/main/8.png)
 
 3. **What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?**
 
@@ -82,6 +79,7 @@ Create pivot table: Insert >> Pivot table
 
 4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
 
-
+* Headline: 
+![image 10, June 1996](https://github.com/jiyuntsai/JOURN_296/blob/main/10.png)
 
 5. **What data might be suitable to join with this data to provide context or additional stories? Give me two examples.**
