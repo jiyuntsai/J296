@@ -79,7 +79,10 @@ Create pivot table: Insert >> Pivot table
 
 4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
 
-* Headline: 
+* Headline: What happened in June? Republican recived 1.1M from Finance, Insurance & Real Estate. <br/>
+* Three sources to include: I would include interview with a professional of politics, someone who knows the sector well, and someone from the Republican campaign team in order to figure out why there were huge donation gap between the two parties in June 1996. 
 ![image 10, June 1996](https://github.com/jiyuntsai/JOURN_296/blob/main/10.png)
 
 5. **What data might be suitable to join with this data to provide context or additional stories? Give me two examples.**
+
+* 
