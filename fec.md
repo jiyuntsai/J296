@@ -51,10 +51,14 @@ Create pivot table: Insert >> Pivot table
 * There were 185 donations to Democrat and 198 donations to Republican. Among all, NY state had the most donation events as well as the amount of donation, followed by DC, CA, FL, and MI. However, TX had the 5th most donation events but the amount of money was 7th most. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/2.png)
 * The amount of donation got higher in 1996 and **thrived in April 1996** and **thrived again in October 1996** (right before the Novemeber 53rd Presidential Election). <br/>
-*Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
+*Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart, **Okie I also did this...**). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
 * For the Democrat, they received the most times of donation from "Finance, Insurance & Real Estate" sector as well as "Misc Business" sector both had 33 times of donation. And for the amount of money, Democrat received the most from "Finance, Insurance & Real Estate" followed by "Misc Business." For the Republican, they received the most times of donation from "Finance, Insurance & Real Estate" sector for 54 times, followed by "Misc Business" sector for 32 times. As for the amount of money, they received the most from "Finance, Insurance & Real Estate" followed by "Ideological/Single-Issue." However, there was no donation from "Labor" and "Lawyers & Lobbyists" sections. <br/>
 ![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/4.png)
+
+* 
+![image 1, Sum amount of parties](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
 
 **Assignment Questions** <br/>
 1. **Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?**
