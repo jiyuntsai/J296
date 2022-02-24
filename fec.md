@@ -4,6 +4,7 @@
 * More data and information *[here](https://www.fec.gov/data/)*. </br>
 * [Part Two](https://github.com/jiyuntsai/JOURN_296/edit/main/fec.md#Part-Two): Descriptive statistics and answering questions provided by the instructor.
 <!-- and Happy President's Day btw! I am writing this assignment on Sunday because I'm going to Napa Valley tomorrow! YABEEE -->
+<!-- Crap I still didn't finish it... -->
 
 ### About this data <br/>
 >This is data provided by the Federal Election Commissions about donations totaling more than $100,000 to the Republican and Democratic entities backing Bill Clinton and Bob Dole’s presidential campaigns. <br/>
@@ -39,6 +40,7 @@ Import dataset to a new google [spreadsheet](https://docs.google.com/spreadsheet
 8. Filter *"State"*: make sure they are all abbreviation of all 51 states. There is one "PR" which stands for Puerto Rico. (mark red!)
 9. Sort *"Zip"*: US zipcodes should always be 5 digits, there are some vlaue that are 3 (belongs to Puerto Rico) or 4 digits only. It might because of the zipcodes start with *0*, to confirm, find out those 4-digit zipcodes and check with the states they belong. Zip Codes in Massachusetts, New Hampshire, Connecticut, New Jersey start with 0, change the format of number to *plain text* add the *0* back.
 10. *"Zip"* column also have two missing values, search them online. *"76155"* for American Airline at DALLAS/FORT WORTH and *"10020"* for Johnson Co at New York.
+11. City mispellings: check if there's any mispellings in city column.
 
 **Process Data** <br/>
 Create pivot table: Insert >> Pivot table
@@ -51,7 +53,7 @@ Create pivot table: Insert >> Pivot table
 * There were 185 donations to Democrat and 198 donations to Republican. Among all, NY state had the most donation events as well as the amount of donation, followed by DC, CA, FL, and MI. However, TX had the 5th most donation events but the amount of money was 7th most. <br/>
 ![image 2, Count of parties donation](https://github.com/jiyuntsai/JOURN_296/blob/main/2.png)
 * The amount of donation got higher in 1996 and **thrived in April 1996** and **thrived again in October 1996** (right before the Novemeber 53rd Presidential Election). <br/>
-*Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart, **Okie I also did this...**). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
+*Steps: copy the spreadsheet to a new sheet. Copy column "date" and paste to a new colum "Month" then change format to only month+year. Then find a new column to count the total donation for each month (two parties together. can do seperate ones to make a three-line line chart, **Okie I also did this...but I deleted the December 1996 data for this chart because I want to focus on the time before November election**). Use the "=SUMIF" function to sum the total amount of money for each month. Draw a line chart.* <br/>
 ![image 3, Sum amount of month donation](https://github.com/jiyuntsai/JOURN_296/blob/main/3.png)
 ![image 9, Sum amount of month donation two line](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)
 * For the Democrat, they received the most times of donation from "Finance, Insurance & Real Estate" sector as well as "Misc Business" sector both had 33 times of donation. And for the amount of money, Democrat received the most from "Finance, Insurance & Real Estate" followed by "Misc Business." For the Republican, they received the most times of donation from "Finance, Insurance & Real Estate" sector for 54 times, followed by "Misc Business" sector for 32 times. As for the amount of money, they received the most from "Finance, Insurance & Real Estate" followed by "Ideological/Single-Issue." However, there was no donation from "Labor" and "Lawyers & Lobbyists" sections. <br/>
@@ -79,10 +81,15 @@ Create pivot table: Insert >> Pivot table
 
 4. **Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. (These can be bullet points — no need for a long explanation.) Remember to detail the steps you took in analyzing the data to get to the story idea. Use the skills we’ve learned to help you.**
 
-* Headline: What happened in June? Republican recived 1.1M from Finance, Insurance & Real Estate. <br/>
-* Three sources to include: I would include interview with a professional of politics, someone who knows the sector well, and someone from the Republican campaign team in order to figure out why there were huge donation gap between the two parties in June 1996. 
-![image 10, June 1996](https://github.com/jiyuntsai/JOURN_296/blob/main/10.png)
+* Headline: What happened in June? Republican received 1.1M from Finance, Insurance & Real Estate. <br/>
+* Three sources to include: I would include interview with a professional of politics, someone who knows the sector well, and someone from the Republican campaign team in order to figure out why there was huge donation gap between the two parties in June 1996 and why the Republican received large donation from the sector. <br/>
+    Questions: <br/>
+  * Politics Professions: Were there different strategies for the two parties at the last few months of the election? What were the reasons that cuased the gap of receiving donations in June 1996? <br/>
+  * Finance Professions: For the 1996 elections, what kind of campaign promises did the financial groups need? Why do the finance, insurance & real estate support the Republican more? <br/>
+  * Republican Team: At the last stage of the election, where did the donation be used on? Did the team focus more on Finance sector for their supports? In which states did the party focus more on? <br/>
+* Steps: First made a chart ([image 9](https://github.com/jiyuntsai/JOURN_296/blob/main/9.png)) to see the sum of amount two parties received each month from 1995 to 1996 (I delete the December 1996 data) and I found out that there are two times where donation raised high but the June 1996 looks interesting because Republican received a lot more donation while Democrats' donation dropped in total. To look at it more closely, I use the pivot table, rows for sector, columns for parties, values for the sum of amount, then set the filter for only June 1996. <br/>
+![image 10, June 1996 donation](https://github.com/jiyuntsai/JOURN_296/blob/main/10.png)
 
 5. **What data might be suitable to join with this data to provide context or additional stories? Give me two examples.**
 
-* 
+* What kind of "promises" did the two parties made in each stage of election to win the support from all sectors. Was there any big economic or finance incident or event happened in the peak of the large amount of donation in June 1996. As the current data we have, adding states and the city might be helpful as well, so that we can see at the last few months of the election, which states did the two parties pay more attention in. Also, compare with the final election result would be good as well, looking at the swing states and the "five flipped states."
