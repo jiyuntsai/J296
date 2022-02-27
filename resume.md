@@ -1,9 +1,17 @@
 <!-- For in-class resume assignment 02/17/2022 -->
-# Resume Practice
-Hey! My name is **Jiyun Tsai**. <br/>
+# Jiyun Tsai
+## Multimedia Journalist
+Hey! My name is Jiyun. <br/>
 I'm a passionate multimedia storyteller with a background in sociology based in the Bay Area. <br/>
 Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyuntsai) for more visual and multimedia projects.
 ***
+![jiyuntsai profile](https://github.com/jiyuntsai/JOURN_296/blob/main/profile%20photo.png)
+
+## Skills
+1. Language: English, Mandarin Chinese, Hokkien Dialect, Korean
+2. Statistic: STATA, R, Python, Basic SQL
+3. Programming: HTML, CSS
+
 ## Education
 **UC Berkeley Journalism School <br/>
 Master of Journalism, Class of 2023**
