@@ -19,7 +19,7 @@ Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyun
 | College of Social Sciences<br>National Taiwan University | <ul><br>    <li>Research Assistant</li><br>    <li>Assisted professors from the social sciences college with various research projects</li><br>    <li>Managed academic events and speeches in social sciences field</li><br></ul> |
 |       PTS English News<br>Public Television Service      | <ul><br>    <li>Associate Producer</li><br>    <li>Edited domestic and international daily news reports</li>    <br>    <li>Produced 13-minute daily television program</li><br></ul>                                              |
 
-## Education
+<!-- ## Education
 **UC Berkeley Journalism School <br/>
 Master of Journalism, Class of 2023**
 * Multimedia and data reporting track
@@ -62,3 +62,4 @@ Research Center for Humanities and Social Science, Academia Sinica, July 2017 - 
 PEOPO Citizen Journalism Summer Internship, Public Television Service, July 2016** <br/>
 * Produce 3-minute video news clips for television program
 * Reported on demolition of a historical local market and the impact on local businesses <br/>
+-->
