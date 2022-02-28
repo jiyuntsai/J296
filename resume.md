@@ -12,6 +12,13 @@ Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyun
 2. Statistic: STATA, R, Python, Basic SQL
 3. Programming: HTML, CSS
 
+## Jobs / Internship
+| **Employer**                                             | **Job Description**                                                                                                                                                                                                                |
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                       Oakland North                      | <ul><br>    <li>Reporter</li><br>    <li>Published stories throughout Oakland on the culture and community beat</li><br>    <li>Published photo essay about Día de Los Muertos in Fruitvale on Oaklandside</li><br></ul>           |
+| College of Social Sciences<br>National Taiwan University | <ul><br>    <li>Research Assistant</li><br>    <li>Assisted professors from the social sciences college with various research projects</li><br>    <li>Managed academic events and speeches in social sciences field</li><br></ul> |
+|       PTS English News<br>Public Television Service      | <ul><br>    <li>Associate Producer</li><br>    <li>Edited domestic and international daily news reports</li>    <br>    <li>Produced 13-minute daily television program</li><br></ul>                                              |
+
 ## Education
 **UC Berkeley Journalism School <br/>
 Master of Journalism, Class of 2023**
