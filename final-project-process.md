@@ -2,7 +2,7 @@
 
 * [Part One](https://github.com/jiyuntsai/JOURN_296/blob/main/final-project-process.md#part-one): Documenting the steps of cleaning the "Dataset_SOFT100K_95-96.csv" dataset. </br>
 * More data and information *[here](https://www.fec.gov/data/)*. </br>
-* [Part Two](https://github.com/jiyuntsai/JOURN_296/blob/final-project-process.md#part-two): Descriptive statistics and answering questions provided by the instructor.
+* [Part Two](https://github.com/jiyuntsai/JOURN_296/edit/final-project-process.md#part-two): Descriptive statistics and answering questions provided by the instructor.
 <!-- and Happy President's Day btw! I am writing this assignment on Sunday because I'm going to Napa Valley tomorrow! YABEEE -->
 <!-- Crap I still didn't finish it... -->
 
