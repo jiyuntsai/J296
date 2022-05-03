@@ -1,6 +1,6 @@
 # Markdown Assignment Data Diary
 
-* [Part One](https://github.com/jiyuntsai/JOURN_296/blob/main/fec.md#part-one): Documenting the steps of cleaning the "Dataset_SOFT100K_95-96.csv" dataset. </br>
+* [Part One](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/fec.md#part-one): Documenting the steps of cleaning the "Dataset_SOFT100K_95-96.csv" dataset. </br>
 * More data and information *[here](https://www.fec.gov/data/)*. </br>
 * [Part Two](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/fec.md#part-two): Descriptive statistics and answering questions provided by the instructor.
 <!-- and Happy President's Day btw! I am writing this assignment on Sunday because I'm going to Napa Valley tomorrow! YABEEE -->
