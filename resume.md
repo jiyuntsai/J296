@@ -3,9 +3,9 @@
 ## Multimedia Journalist
 Hey! My name is Jiyun. <br/>
 I'm a passionate multimedia storyteller with a background in sociology based in the Bay Area. <br/>
-Take a look at my [online portfolio](https://sites.google.com/berkeley.edu/jiyuntsai) for more visual and multimedia projects.
+Take a look at my [online portfolio](https://jiyuntsai.github.io/) for more visual and multimedia projects.
 ***
-![jiyuntsai profile](https://github.com/jiyuntsai/JOURN_296/blob/main/profile%20photo.png)
+![jiyuntsai profile](https://github.com/jiyuntsai/JOURN296/blob/main/profile%20photo.png)
 
 ## Skills
 1. Language: English, Mandarin Chinese, Hokkien Dialect, Korean
