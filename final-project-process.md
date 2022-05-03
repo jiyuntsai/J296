@@ -2,6 +2,7 @@
 
 * [Part One](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-process.md#part-one): Documenting the steps of cleaning the dataset.
 * [Part Two](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-process.md#part-two): Descriptive statistics and story ideas.
+* Access .csv dataset: [Original](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/Business_Licenses(original).csv) and [Cleaned](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/Business_Licenses(cleaned).csv)
 * Read Final Project Story *[here](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-story.md)*. <br/>
 <!-- I am sooooooooo tirrrrrrrrrrred bruhhhhhhhhhhh-->
 
@@ -81,3 +82,19 @@ Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 7. However, for non-female-owned business, "Construction or contractor" is the largest business type, followed by "Rental of Real Property" and  "Professional SemiProfessional". <br/>
 &nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default and % of row) then, copy and paste value-only to another sheet. For table with counted values, add up rows of "blank" and "NO" and name this row with "NON-female-owned" and remame row "YES" to "female-owned". Then, for table with % of row values, divide "NON-female-owned" values by total "NON-female-owned" to calculate the percentage. Finally, copy and paste value-only to that row <br/>
 ![image 7, tables of large business type among non-female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp7.png) <br/>
+
+**Find the Story** <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
