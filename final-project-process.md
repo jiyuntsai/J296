@@ -6,11 +6,11 @@
 <!-- I am sooooooooo tirrrrrrrrrrred bruhhhhhhhhhhh-->
 
 ### About this data <br/>
->This is data provided by the Federal Election Commissions about donations totaling more than $100,000 to the Republican and Democratic entities backing Bill Clinton and Bob Dole’s presidential campaigns. <br/>
-File Names: Dataset_SOFT100K_95-96.csv <br/>
-Source: Federal Election Commission <br/>
-Dates Covered: January 1995 to December 1996 <br/>
-More data and information *[here](https://www.fec.gov/data/)*. </br>
+>This is a dataset of registered businesses in the City of Berkeley with business license records <br/>
+View Dataset: [Business_Licenses 2022.04.26](https://docs.google.com/spreadsheets/d/1SH9cntqwLkngYWbZ1HqiDEozQgJiCJI6Bqzv9l7l_vs/edit?usp=sharing) <br/>
+Source: City of Berkeley Finance Department <br/>
+Dates Covered: Daily update, dataset exported on April 26, 2022 <br/>
+More information *[here](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w)* </br>
 
 ### Dataset_SOFT100K_95-96.csv <br/>
 >Donor: individual, company or entity that donated money to either campaign
