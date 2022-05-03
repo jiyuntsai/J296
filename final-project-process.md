@@ -10,6 +10,7 @@
 Dataset: [Business_Licenses](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w) <br/>
 Source: City of Berkeley Finance Department <br/>
 Dates Covered: Daily update, dataset exported on April 26, 2022 <br/>
+Access dataset from [repo](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/fpp.csv)
 More information of City of Berkeley Open Data *[here](https://data.cityofberkeley.info/)* <br/>
 
 ### Dataset Description <br/>
@@ -43,12 +44,30 @@ Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvP
 &nbsp;* BL-047849: add physical address. <br/>
 &nbsp;* BL-053103: "B1_SITUS_ZIP" change from "94701" to "94704" along with the change of "Business_Location". <br/>
 
-**Note** <br/>
-Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location
+**Noted** <br/>
+Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location, need to filter out when mapping.
 
 ## Part Two
 
-**Process Data** <br/>
-Create pivot table: Insert >> Pivot table <br/>
+**Data Processing** <br/>
+Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 
 **Descriptive Statistics** <br/>
+1. Of all the 12760 businesses, 2382 businesses (18.67%) indicade themselves female-owned businesses. <br/>
+&nbsp;* Pivot table set columns to "Female_Owned" and values to "RecordID" (show as both Default and % of row) <br/>
+![image 1, pivot table of indicading female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp1.png) <br/>
+
+2. Of all the 12760 businesses, 1799 businesses (14.10%) indicade themselves minority-owned businesses. <br/>
+&nbsp;* Pivot table set columns to "Minority_Owned" and values to "RecordID" (show as both Default and % of row) <br/>
+![image 2, pivot table of indicading minority-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp2.png) <br/>
+
+3. 39.29% of female-owned businesses indicade themselves minority-owned businesses.
+&nbsp;* Pivot table set filters to "Female_Owned" (status showing "YES"), columns to "Minority_Owned", and values to "RecordID" (show as both Default and % of row) <br/>
+![image 3, pivot table of indicading female-owned and minority-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp3.png) <br/>
+
+4. For female-owned businesses, most businesses are sole-ownership. But for non-female-owned businesses, corporation has the most count.
+&nbsp;* Pivot table set rows to "Female_Owned", columns to "Bus_Own_Type", and values to "RecordID" (show as % of grand total) <br/>
+![image 4, pivot table of business owned type by indicating female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp4.png) <br/>
+
+
+
