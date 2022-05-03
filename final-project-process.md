@@ -2,7 +2,7 @@
 
 * [Part One](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-process.md#part-one): Documenting the steps of cleaning the dataset.
 * [Part Two](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-process.md#part-two): Descriptive statistics and story ideas.
-* Read Story *[here](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-story.md)*. </br>
+* Read Final Project Story *[here](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/final-project-story.md)*. </br>
 <!-- I am sooooooooo tirrrrrrrrrrred bruhhhhhhhhhhh-->
 
 ### About this data <br/>
@@ -12,19 +12,14 @@ Source: City of Berkeley Finance Department <br/>
 Dates Covered: Daily update, dataset exported on April 26, 2022 <br/>
 More information *[here](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w)* </br>
 
-### Dataset_SOFT100K_95-96.csv <br/>
->Donor: individual, company or entity that donated money to either campaign
-Amount: amount over $100,000 contributed to either campaign <br/>
-Date: date of contribution to either campaign <br/>
-Recipient: Committee receiving the donation which backs either Bill Clinton or Bob Dole’s presidential campaigns <br/>
-Party: designation of the political party, either Republican or Democrat <br/>
-Donor's Business or Organization: donor’s business or organizational affiliation <br/>
-Sector: sector to which the donor entity belongs or represents <br/>
-Industry: industry to which the donor entity belongs or represents <br/>
-City: City the donor is based or headquartered  in <br/>
-State: State the donor is based or headquartered in <br/>
-Zip: ZIP code the donor is based or headquartered in <br/>
-***
+### Dataset Description <br/>
+>RecordID: License number, unique <br/>
+Minority_Owned: Indicates whether business is minority owned <br/>
+Female_Owned: Indicates whether business is female owned <br/>
+B1_PER_SUB_TYPE: Record type for internal classification <br/>
+Bus_Own_Type: Type of business ownership structure (i.e. corporation, LLC, sole-ownership, etc) <br/>
+Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvPVrcwdVKSVw/view?usp=sharing)* </br>
+
 ## Part One
 
 Import dataset to a new google [spreadsheet](https://docs.google.com/spreadsheets/d/1tvC-hINf7kAM-ODnsHkkAQD8c7uTWjtlVfPofsAcVms/edit?usp=sharing)(view mode). <br/>
