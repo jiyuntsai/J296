@@ -61,13 +61,23 @@ Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 &nbsp;* Pivot table set columns to "Minority_Owned" and values to "RecordID" (show as both Default and % of row) <br/>
 ![image 2, pivot table of indicading minority-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp2.png) <br/>
 
-3. 39.29% of female-owned businesses indicade themselves minority-owned businesses.
+3. 39.29% of female-owned businesses indicade themselves minority-owned businesses. <br/>
 &nbsp;* Pivot table set filters to "Female_Owned" (status showing "YES"), columns to "Minority_Owned", and values to "RecordID" (show as both Default and % of row) <br/>
 ![image 3, pivot table of indicading female-owned and minority-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp3.png) <br/>
 
-4. For female-owned businesses, most businesses are sole-ownership. But for non-female-owned businesses, corporation has the most count.
+4. For female-owned businesses, most businesses are sole-ownership. But for non-female-owned businesses, corporation has the most count. <br/>
 &nbsp;* Pivot table set rows to "Female_Owned", columns to "Bus_Own_Type", and values to "RecordID" (show as % of grand total) <br/>
+&nbsp;* *LLC: Limited liability company*
 ![image 4, pivot table of business owned type by indicating female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp4.png) <br/>
 
+5. Among all business, "Rental of Real Property" is the largest business type. The second largest is "Construction or contractor" followed by "Professional SemiProfessional" category. <br/>
+&nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default, % of row, and % of grand total) then, copy and paste value-only to another sheet <br/>
+![image 5, tables of large business type among all businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp5.png) <br/>
 
+6. For female-owned business, "Rental of Real Property" is the largest business type, followed by "Professional SemiProfessional", "Retail Trade", and "Business Personal Repair Svs". <br/>
+&nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default and % of row) then, copy and paste value-only to another sheet <br/>
+![image 6, tables of large business type among female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp6.png) <br/>
 
+7. However, for non-female-owned business, "Construction or contractor" is the largest business type, followed by "Rental of Real Property" and  "Professional SemiProfessional". <br/>
+&nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default and % of row) then, copy and paste value-only to another sheet. For table with counted values, add up rows of "blank" and "NO" and name this row with "NON-female-owned" and remame row "YES" to "female-owned". Then, for table with % of row values, divide "NON-female-owned" values by total "NON-female-owned" to calculate the percentage. Finally, copy and paste value-only to that row <br/>
+![image 7, tables of large business type among non-female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp7.png) <br/>
