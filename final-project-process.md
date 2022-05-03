@@ -43,7 +43,7 @@ Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvP
 &nbsp;* BL-047849: add physical address. <br/>
 &nbsp;* BL-053103: "B1_SITUS_ZIP" change from "94701" to "94704" along with the change of "Business_Location". <br/>
 
-**Note**
+**Note** <br/>
 Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location
 
 **Process Data** <br/>
