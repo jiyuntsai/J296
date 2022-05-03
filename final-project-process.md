@@ -46,9 +46,6 @@ Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvP
 **Note** <br/>
 Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location
 
-**Process Data** <br/>
-Create pivot table: Insert >> Pivot table
-
 ## Part Two
 
 **Process Data** <br/>
