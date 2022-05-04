@@ -93,16 +93,8 @@ So I filtered out "0 VARIOUS " of column "B1_FULL_ADDRESS" and then filter "B1_S
 And here's the descriptive statistic of businesses around UC Berkeley:
 ![image 8, tables of businesses type around UC Berkeley campus](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp8.png) <br/>
 
-**Turns out the house renting grows
-
 **Identify Sources** <br/>
 1. Beth Roessner, CEO, Berkeley Chamber of Commerce, [Women Entrepreneurs of Berkeley (WEB)](https://web.berkeleychamber.com/WEB-Member-Directory)
-2. 
+2. Kathy, Landlord in North Berkeley
 3. City of Berkeley, [Economic Dashboards and Reports](https://berkeleyca.gov/doing-business/economic-development/economic-dashboards-and-reports)
-
-
-
-
-
-
-
+4. Berkeley Rent Board, [Data and Reports](https://rentboard.berkeleyca.gov/forms-reports/data-reports)
