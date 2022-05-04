@@ -11,7 +11,6 @@
 Dataset: [Business_Licenses](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w) <br/>
 Source: City of Berkeley Finance Department <br/>
 Dates Covered: Daily update, dataset exported on April 26, 2022 <br/>
-Access dataset from [repo](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/fpp.csv)
 More information of City of Berkeley Open Data *[here](https://data.cityofberkeley.info/)* <br/>
 
 ### Dataset Description <br/>
