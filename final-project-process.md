@@ -70,11 +70,11 @@ Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 &nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default, % of row, and % of grand total) then, copy and paste value-only to another sheet <br/>
 ![image 5, tables of large business type among all businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp5.png) <br/>
 
-6. For female-owned business, "Rental of Real Property" is the largest business type, followed by "Professional SemiProfessional", "Retail Trade", and "Business Personal Repair Svs". <br/>
+6. For female-owned businesses, "Rental of Real Property" is the largest business type, followed by "Professional SemiProfessional", "Retail Trade", and "Business Personal Repair Svs". <br/>
 &nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default and % of row) then, copy and paste value-only to another sheet <br/>
 ![image 6, tables of large business type among female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp6.png) <br/>
 
-7. However, for non-female-owned business, "Construction or contractor" is the largest business type, followed by "Rental of Real Property" and  "Professional SemiProfessional". <br/>
+7. However, for non-female-owned businesses, "Construction or contractor" is the largest business type, followed by "Rental of Real Property" and  "Professional SemiProfessional". <br/>
 &nbsp;* Pivot table set rows to "Female_Owned", columns to "B1_PER_SUB_TYPE", and values to "RecordID" (show as Default and % of row) then, copy and paste value-only to another sheet. For table with counted values, add up rows of "blank" and "NO" and name this row with "NON-female-owned" and remame row "YES" to "female-owned". Then, for table with % of row values, divide "NON-female-owned" values by total "NON-female-owned" to calculate the percentage. Finally, copy and paste value-only to that row <br/>
 ![image 7, tables of large business type among non-female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp7.png) <br/>
 
