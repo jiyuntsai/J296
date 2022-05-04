@@ -44,6 +44,10 @@ Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvP
 &nbsp;* BL-047847: add physical address. <br/>
 &nbsp;* BL-047849: add physical address. <br/>
 &nbsp;* BL-053103: "B1_SITUS_ZIP" change from "94701" to "94704" along with the change of "Business_Location". <br/>
+7. Check column "B1_FULL_ADDRESS" too: <br/>
+&nbsp;* BL-003236: add physical address. <br/>
+&nbsp;* BL-003291: add physical address. <br/>
+&nbsp;* BL-006330: add physical address. <br/>
 
 **Noted** <br/>
 Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location, need to filter out when mapping.
@@ -84,13 +88,17 @@ Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 ![image 7, tables of large business type among non-female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp7.png) <br/>
 
 **Find the Story** <br/>
+After browsing the dataset and running some descriptive statistics, I am curious about what the businesses around UC Berkeley looks like. So I tried different ways to determine the definition of "around UC Berkeley campus" and finally decided to use zipcodes of 94704 and 94709 that cover the "north shattuck", "downtown", and "telegraph avenue district" neighborhoods that surround the UC Berkeley campus. <br/>
+So I filtered out "0 VARIOUS " of column "B1_FULL_ADDRESS" and then filter "B1_SITUS_ZIP" to show zipcodes of only 94704 and 94709. <br/> 
+And here's the descriptive statistic of businesses around UC Berkeley:
+![image 8, tables of businesses type around UC Berkeley campus](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp8.png) <br/>
 
+**Turns out the house renting grows
 
-
-
-
-
-
+**Identify Sources** <br/>
+1. Beth Roessner, CEO, Berkeley Chamber of Commerce, [Women Entrepreneurs of Berkeley (WEB)](https://web.berkeleychamber.com/WEB-Member-Directory)
+2. 
+3. City of Berkeley, [Economic Dashboards and Reports](https://berkeleyca.gov/doing-business/economic-development/economic-dashboards-and-reports)
 
 
 
