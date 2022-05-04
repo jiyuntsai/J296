@@ -11,4 +11,7 @@ A [report](https://berkeleyca.gov/doing-business/economic-development/economic-d
 
 But what exactly is the composition of business look like in the city of Berkeley? <br/>
 
+To find out, we pulled out the business licenses dataset of Berkeley city (dataset based on April 26, 2022). Among all 12,760 businesses registered, “Rental of Real Property” has the highest 25.80% of all business types, followed by “Construction or Contractor” with 22.81% and “Professional SemiProfessional” with 21.41%. [View Datawrapper](https://www.datawrapper.de/_/IeGis/) <br/>
+![image 1, business composition of berkeley city](https://github.com/jiyuntsai/JOURN_296-Data-Journalism/blob/main/fps-business-composition.png) <br/>
+
 
