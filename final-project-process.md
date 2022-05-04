@@ -34,19 +34,11 @@ Full description *[here](https://drive.google.com/file/d/1Ou8U6Q6X_qIdRvASN8QyvP
 6. Column "B1_ZIP" and "B1_SITUS_ZIP": City of Berkeley uses zipcodes 94701-94710, 94712, and 94720 (94701 and 94712 are PO Box, 94720 belongs to UC Berkeley). Filtered out values other than 94702-94710 and 94720: <br/>
 &nbsp;* BL-000283: "B1_ZIP" change from "947041521" to "94704-1521" and fill in the physical address data after searching online. <br/>
 &nbsp;* BL-002285: "B1_SITUS_ZIP" change from "94701" to "94710" along with the change of "Business_Location". <br/>
-&nbsp;* BL-004576: add physical address. <br/>
-&nbsp;* BL-006880: add physical address. <br/>
+&nbsp;* BL-004576, BL-006880, BL-023239, BL-023507, BL-023969, BL-047847, BL-047849, BL-053103: add physical address. <br/>
 &nbsp;* BL-007121: "B1_SITUS_ZIP" change from "94701" to "94710" along with the change of "Business_Location". <br/>
-&nbsp;* BL-023239: add physical address. <br/>
-&nbsp;* BL-023507: add physical address. <br/>
-&nbsp;* BL-023969: add physical address. <br/>
-&nbsp;* BL-047847: add physical address. <br/>
-&nbsp;* BL-047849: add physical address. <br/>
 &nbsp;* BL-053103: "B1_SITUS_ZIP" change from "94701" to "94704" along with the change of "Business_Location". <br/>
 7. Check column "B1_FULL_ADDRESS" too: <br/>
-&nbsp;* BL-003236: add physical address. <br/>
-&nbsp;* BL-003291: add physical address. <br/>
-&nbsp;* BL-006330: add physical address. <br/>
+&nbsp;* BL-003236, BL-003291, BL-006330: add physical address. <br/>
 
 **Noted** <br/>
 Business_Location: If shows "0 Various" then business is located elsewhere but operates in Berkeley without a physical location, need to filter out when mapping.
@@ -87,7 +79,7 @@ Create pivot table: Insert >> Pivot table >> Create New Sheet <br/>
 ![image 7, tables of large business type among non-female-owned businesses](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp7.png) <br/>
 
 **Find the Story** <br/>
-After browsing the dataset and running some descriptive statistics, I am curious about what the businesses around UC Berkeley looks like. So I tried different ways to determine the definition of "around UC Berkeley campus" and finally decided to use zipcodes of 94704 and 94709 that cover the "north shattuck", "downtown", and "telegraph avenue district" neighborhoods that surround the UC Berkeley campus. <br/>
+After browsing the dataset and running some descriptive statistics, I am curious about **what the businesses around UC Berkeley looks like**. So I tried different ways to determine the definition of "around UC Berkeley campus" and finally decided to use zipcodes of 94704 and 94709 that cover the "north shattuck", "downtown", and "telegraph avenue district" neighborhoods that surround the UC Berkeley campus. <br/>
 So I filtered out "0 VARIOUS " of column "B1_FULL_ADDRESS" and then filter "B1_SITUS_ZIP" to show zipcodes of only 94704 and 94709. <br/> 
 And here's the descriptive statistic of businesses around UC Berkeley:
 ![image 8, tables of businesses type around UC Berkeley campus](https://github.com/jiyuntsai/JOURN_296/blob/main/fpp8.png) <br/>
