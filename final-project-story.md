@@ -21,4 +21,8 @@ Then, by separating the factor of indicating female or non-female owned business
 
 “I prefer looking for female-identifying landlords,” said Alice Dong, a graduate student at UC Berkeley. Like Dong, many students at UC Berkeley are seeking housing around the campus. As  UC Berkeley announced in-person courses starting in Fall 2021, students and staff who once attended class remotely return to Berkeley City. According to the US Census Bureau, the city has 57.1% of rental homes and 42.9% of owned homes, that is, more than half of the housing properties in Berkeley city are for rental purposes. The owner-occupied housing unit rate is lower than the national average (64.1%) and the average in California state (54.8%). <br/>
 
+### Business Composition around UC Berkeley Campus
+
 The high demands for housing around UC Berkeley also reflect the number of business licenses in “Rental of Real Property” around the campus. To take a closer look at the business composition of areas around the UC Berkeley campus, we identified the zip codes “94704” and “94709” that have covered all the areas around the school, including the “North Shattuck”, "Downtown", and "Telegraph Avenue District" neighborhoods, where most commercial activities around the school take place. <br/>
+
+Among all businesses around the area of the UC Berkeley campus, “Rental of Real Property” has the highest proportion of business licenses, a total of 42.13%, followed by “Professional SemiProfessional”, with a total of 22.13%, “Retail Trade”, with a total of 16.36%, and “Non-Profit Organizations”, with a total 8.71%. <br/>
