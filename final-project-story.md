@@ -19,7 +19,10 @@ Then, by separating the factor of indicating female or non-female owned business
 
 ### Women-owned business in Rental of Real Property
 
-“I prefer looking for female-identifying landlords,” said Alice Dong, a graduate student at UC Berkeley. Like Dong, many students at UC Berkeley are seeking housing around the campus. As  UC Berkeley announced in-person courses starting in Fall 2021, students and staff who once attended class remotely return to Berkeley City. According to the US Census Bureau, the city has 57.1% of rental homes and 42.9% of owned homes, that is, more than half of the housing properties in Berkeley city are for rental purposes. The owner-occupied housing unit rate is lower than the national average (64.1%) and the average in California state (54.8%). <br/>
+“I prefer looking for female-identifying landlords,” said Alice Dong, a graduate student at UC Berkeley. Like Dong, many students at UC Berkeley are seeking housing around the campus. As  UC Berkeley announced in-person courses starting in Fall 2021, students and staff who once attended class remotely returned to Berkeley City. There are 1,239 new tenancies entering the Berkeley City housing market, according to the market meidan report of the [Rent Stabilization Board](https://rentboard.berkeleyca.gov/sites/default/files/2022-01/Market%20Medians_2021_Q3.pdf) released in January 2022. <br/>
+
+According to the US Census Bureau, the city has 57.1% of rental homes and 42.9% of owned homes, that is, more than half of the housing properties in Berkeley city are for rental purposes. The owner-occupied housing unit rate is lower than the national average (64.1%) and the average in California state (54.8%). The rate of Berkeley City did not change significantly from 2013 to 2019. <br/>
+
 
 ### Business Composition around UC Berkeley Campus
 
